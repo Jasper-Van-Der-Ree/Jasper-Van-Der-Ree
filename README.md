@@ -4,5 +4,5 @@ I'm currently learning SQL on Codecademy, and I'm comfortable with Python and Ja
 
 If you have a project or an idea for a project that could utilize my skillset, please do not hesitate to reach out!
 - Email: jaspervanderree@gmail.com
-- Linkedn: Linkedin.com/in/jaspervanderree/
-- Instagram: https://www.instagram.com/jaspervanderree/
+- Linkedn: www.linkedin.com/in/jaspervanderree/
+- Instagram: www.instagram.com/jaspervanderree/
